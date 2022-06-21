@@ -8,3 +8,5 @@ Conflicting change from master and experiment
 3
 A
 B
+Hotfix2
+C
